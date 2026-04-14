@@ -9,7 +9,7 @@ I am a final-year Honours Computer Science student with a minor in Mathematics, 
 * **Automation:** Experienced in building automated workflows with AWS Lambda, Power Automate, as well as AI Agent Development using Amazon Bedrock and Claude.
 
 ## 🌱 Outside of the Lab
-Some things I enjoy to do outside of work/academics:
-* 🥖 **Sourdough Baking:** Big fan of baking anything sourdough, especially a loaf or a focaccia
-* 🌿 **Plant Care:** Tending to my indoor jungle of orchids, ivy, and peace lilies
+Some things I enjoy doing outside of work/academics:
+* 🥖 **Sourdough Baking:** Big fan of baking anything sourdough, especially a loaf or a focaccia.
+* 🌿 **Plant Care:** I like to be surrounded by plants, I currently tend to my jungle of orchids, ivy, fiddle leaf, and peace lilies
 * ✈️ **Planning Travels:** I love to travel, and I am especially fond of southern Europe.
