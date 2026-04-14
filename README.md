@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Isabel 👋
 
-<!--
-**isabelk0649/isabelk0649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Co-op student @ Wilfrid Laurier University 
+I am a final-year Honours Computer Science student with a minor in Mathematics, graduating in September 2026. 
 
-Here are some ideas to get you started:
+## 🚀 Professional Focus
+* **Cloud FinOps:** Experience in automated cost-optimization, budget management, and cloud financial operations.
+* **Optimization:** Passionate about looking for ways to make systems (and code) more efficient.
+* **Automation:** Experienced in building workflows using AWS Lambda, Power Automate, and Azure Billing Profiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Outside of the Lab
+Some things I enjoy to do outside of work/academics:
+* 🥖 **Sourdough Baking:** Currently perfecting a same-day Kensington starter loaf.
+* 🌿 **Plant Care:** Tending to my indoor jungle of orchids, ivy, and peace lilies.
+* ✈️ **Planning Travels:** I love to travel, and I am especially fond of southern Europe.
