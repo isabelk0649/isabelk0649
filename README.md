@@ -10,6 +10,6 @@ I am a final-year Honours Computer Science student with a minor in Mathematics, 
 
 ## 🌱 Outside of the Lab
 Some things I enjoy to do outside of work/academics:
-* 🥖 **Sourdough Baking:** Currently perfecting a same-day Kensington starter loaf.
-* 🌿 **Plant Care:** Tending to my indoor jungle of orchids, ivy, and peace lilies.
+* 🥖 **Sourdough Baking:** Big fan of baking anything sourdough, especially a loaf or a focaccia
+* 🌿 **Plant Care:** Tending to my indoor jungle of orchids, ivy, and peace lilies
 * ✈️ **Planning Travels:** I love to travel, and I am especially fond of southern Europe.
